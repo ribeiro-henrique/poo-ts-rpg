@@ -6,5 +6,9 @@ export default interface Energy {
 }
 
 // a interface é um contrato a ser seguido
-// não contém métodos e nem seta atributos
-// é uma abstração ainda maior, readOnly
+// é uma abstração ainda maior
+
+// a classe que herdar a interface é obrigada a 
+// implementar os métodos da interface
+
+// quase uma regra de negócio, um contrato

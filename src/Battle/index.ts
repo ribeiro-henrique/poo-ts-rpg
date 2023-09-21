@@ -1,5 +1,7 @@
-// import Battle from './Battle';
-// import Race from '../Races/Race';
+import Race from '../Races/Race';
+import Battle from './Battle';
 
-// export default Race;
-// export default Battle;
+export {
+  Race,
+  Battle,
+};

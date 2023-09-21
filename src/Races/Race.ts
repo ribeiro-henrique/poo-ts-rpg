@@ -17,7 +17,11 @@ export default abstract class Race {
     return this._dexterity;
   }
   
-  // método statico retorna sempre um mesmo valor,
+  // método statico não precisa de atributos,
+  // é tbm chamado de método de classe,
+  // pois pode ser chamado diretamente na classe:
+  // Race.createdRacesInstances;
+  
   // o throwing é uma garantia de que terei que 
   // implementar o retorno do método nas class filhas
   static createdRacesInstances(): number {

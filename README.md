@@ -9,6 +9,8 @@ Este projeto é uma implementação de um jogo estilo Dungeons and Dragons (D&D)
 ## Pré-requisitos
 
 - [Node.js](https://nodejs.org/) (v14.0 ou superior)
+
+## Opcionais
 - [Docker](https://www.docker.com/get-started)
 
 ## Instalação

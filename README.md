@@ -18,8 +18,8 @@ Este projeto é uma implementação de um jogo estilo Dungeons and Dragons (D&D)
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
-   cd seu-projeto
+   git clone git@github.com:ribeiro-henrique/poo-ts-rpg.git
+   cd poo-ts-rpg
 
 1. Instale as dependências do Node.js:
 
